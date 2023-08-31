@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**coelhomarcel/coelhomarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about data, technology, and entrepreneurship.
 
-Here are some ideas to get you started:
+🚀 Computer Engineer and Marketing Technologist with over 4 years of experience in Data Engineering and a strong background in Web Development. Throughout my career, I have gained expertise in manipulating data and creating insightful reports that drive business growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience Areas:
+
+- Relational and non-relational databases: PostgreSQL, Redshift, MySQL, MongoDB, ElasticSearch, and DynamoDB
+- ETLs/ELTs: Python and Apache Airflow
+- Data visualization: Looker and Data Studio
+- Data modeling
+- Cloud Services (AWS): Athena, Glue, S3, EC2, and Lambda
+- Web Analytics: Google Analytics and Google Optimize
+- Customer Data Platform: Segment
+- Code versioning: Git
+- Containerization: Docker
+- Full Stack Web Development: PHP and Javascript (NodeJS / ReactJS)
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/marcelscoelho).
