@@ -3,6 +3,7 @@
 Passionate about technology and entrepreneurship.
 
 Data Engineer and Marketing Technologist with solid experience in data engineering, database modeling, big data processing, and scalable pipeline development. 
+
 Strong background in high-growth startups, ensuring adaptability to dynamic environments and fast deliveries. Self-management skills and task prioritization to drive strategic results.
 
 
